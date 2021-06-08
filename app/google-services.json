@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "640138117801",
+    "project_id": "auto-energex",
+    "storage_bucket": "auto-energex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640138117801:android:3ae11ecab0ed2ce2255fb8",
+        "android_client_info": {
+          "package_name": "com.example.auto_energex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640138117801-up78cmcfo12l0fl913g218g9fte7onut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auto_energex",
+            "certificate_hash": "646527a68119d38139f69fb8cb66733b38642311"
+          }
+        },
+        {
+          "client_id": "640138117801-2v5l92hfd50mlj8c9uc0b0f6fir2ahr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaybLmZkoA_PP1nSc21Qy8FEns2t_o91s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640138117801-2v5l92hfd50mlj8c9uc0b0f6fir2ahr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
