@@ -222,6 +222,10 @@ public class User_Homepage extends AppCompatActivity {
                 Toast.makeText(User_Homepage.this,"unable to transmit to ardunio ",Toast.LENGTH_SHORT).show();
 
             }
+            catch (NullPointerException nullPointerException)
+            {
+                Toast.makeText(User_Homepage.this,"no active connection",Toast.LENGTH_SHORT).show();
+            }
         }
     }
 
