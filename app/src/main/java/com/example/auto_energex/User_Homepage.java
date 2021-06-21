@@ -219,6 +219,7 @@ public class User_Homepage extends AppCompatActivity {
                 Toast.makeText(User_Homepage.this,"successfully sent ardunio",Toast.LENGTH_SHORT).show();
             }
             catch (IOException ioException){
+                Toast.makeText(User_Homepage.this,"unable to transmit to ardunio ",Toast.LENGTH_SHORT).show();
 
             }
         }
